@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section{
+    height: 100vh;
+    width: 100vw;
+    background-color: gray;
+}
+.external-head{
+    text-align: center;
+    margin-top: 30px;
+}
+.external-div{
+    height: 100px;
+    width: 250px;
+    border: 5px solid black;
+    background-color: aqua;
+    margin-top: 20px;
+    margin-left: 635px;
+}
